@@ -1,15 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="io.cordova.mobileShay" version="1.0.1" xmlns="http://www.w3.org/ns/widgets">
-  <name>OGE</name>
-  <description>OGE delek</description>
+  <name>FLS</name>
+  <description>FLS delek</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">YomTov LTD</author>
   <content src="index.html" />
-  <icon src="icon.png" />
-
-  <icon src="res/icon/android/icon-36-ldpi.png" />
-  <icon src="res/icon/android/icon-48-mdpi.png" />
-  <icon src="res/icon/android/icon-72-hdpi.png"/>
-  <icon src="res/icon/android/icon-96-xhdpi.png" />
   <access origin="*" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="default" />
